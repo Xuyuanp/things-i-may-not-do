@@ -5,3 +5,12 @@
 * [ ] 8 packs
 * [x] Github 500 stars
 * [x] Learn haskell
+
+# 2017
+
+* [ ] Beijing Marathon
+* [ ] Fitness & Loss weight - 70kg
+* [ ] EBC in Nepal
+* [ ] Panda volunteer
+* [ ] Watch DAC2
+* [ ] Write a DB
