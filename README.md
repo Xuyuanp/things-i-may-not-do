@@ -12,5 +12,5 @@
 * [ ] Fitness & Loss weight - 70kg
 * [ ] EBC in Nepal
 * [ ] Panda volunteer
-* [ ] Watch DAC2
+* [x] Watch DAC2
 * [ ] Write a DB
