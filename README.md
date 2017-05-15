@@ -14,3 +14,4 @@
 * [ ] Panda volunteer
 * [x] Watch DAC2
 * [ ] Write a DB
+* [x] Trip to Russia
