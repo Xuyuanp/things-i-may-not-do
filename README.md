@@ -1,13 +1,8 @@
-# 2016
+# Things I may not do
 
 * [x] Conquer Mt. Kilimanjaro
-* [ ] Beijing Marathon
-* [ ] 8 packs
 * [x] Github 500 stars
 * [x] Learn haskell
-
-# 2017
-
 * [ ] Beijing Marathon
 * [ ] Fitness & Loss weight - 70kg
 * [ ] EBC in Nepal
